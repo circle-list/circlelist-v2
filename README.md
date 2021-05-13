@@ -1,7 +1,4 @@
-# CircleList v3
+# CircleList v2
 
-コミックマーケット用のWebアプリケーション制作プロジェクト  
-
-## これは何？
-このリポジトリはWebアプリケーション「[CircleList](https://circlelist.ga/)」のソースコードです  
-Vue.jsで1から作り直しています。（開発中）
+これは旧バージョンのリポジトリです。  
+現行バージョンのリポジトリは[こちら](https://github.com/circle-list/circle-list.github.io)
